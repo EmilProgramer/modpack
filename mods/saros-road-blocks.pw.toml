@@ -1,16 +1,14 @@
-filename = 'Saros-Road-Blocks-Mod-1.20.1-4.4.1.jar'
-name = 'Saro´s Road Blocks'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Saro´s Road Blocks"
+filename = "Saros-Road-Blocks-Mod-1.20.1-4.4.1.jar"
+side = "both"
 
 [download]
-hash = 'af4188d0bb70ea1c6119d06e6c15085e19d41d57ff4fd562585f7ab8463915d2b035ce7fdc35c2ceb6597a4e32c4146cc8cb3df99003917aaab7ea1308f4accb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/NnMIY8We/versions/bYkUbL7Y/Saros-Road-Blocks-Mod-1.20.1-4.4.1.jar'
+url = "https://cdn.modrinth.com/data/NnMIY8We/versions/bYkUbL7Y/Saros-Road-Blocks-Mod-1.20.1-4.4.1.jar"
+hash-format = "sha512"
+hash = "af4188d0bb70ea1c6119d06e6c15085e19d41d57ff4fd562585f7ab8463915d2b035ce7fdc35c2ceb6597a4e32c4146cc8cb3df99003917aaab7ea1308f4accb"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'NnMIY8We'
-version = 'bYkUbL7Y'
+mod-id = "NnMIY8We"
+version = "bYkUbL7Y"

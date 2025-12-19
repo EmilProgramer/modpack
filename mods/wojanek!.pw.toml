@@ -1,16 +1,14 @@
-filename = 'wojanek-1.0.0.jar'
-name = 'Wojanek!'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Wojanek!"
+filename = "wojanek-1.0.0.jar"
+side = "both"
 
 [download]
-hash = 'a41939b6fec63cecc1c7831f35e362777456bea81dc3975ee97fe7cbeb87334717d0353aad7f4e0e47629d39c72748cd32abb370e8745c3bbd0a4ce31c86ee9f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/t0tfDFXH/versions/gTgaw3ac/wojanek-1.0.0.jar'
+url = "https://cdn.modrinth.com/data/t0tfDFXH/versions/gTgaw3ac/wojanek-1.0.0.jar"
+hash-format = "sha512"
+hash = "a41939b6fec63cecc1c7831f35e362777456bea81dc3975ee97fe7cbeb87334717d0353aad7f4e0e47629d39c72748cd32abb370e8745c3bbd0a4ce31c86ee9f"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 't0tfDFXH'
-version = 'gTgaw3ac'
+mod-id = "t0tfDFXH"
+version = "gTgaw3ac"
