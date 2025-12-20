@@ -16,6 +16,11 @@ hash = "91e517e02a38e423af0bf2f49e22f5069e2775317c8d20ef62d7aa557d15df62"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "82b2d231099a20916315cf11085ec4aa4d9e029bad67c20c017b7f9ae48dabb5"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b3d7d14219e2cef10c909566f9cf67b8df29f7a9b5ecb5dd925ac0d27a42747d"
 metafile = true
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4d7b1b60ca7ea19257c99fc9c60164aabd546a465ca935dfc9a54126c55e72e8"
+hash = "d78518ca3133a2fbb357d7371521d73b71ea5e82b63c45babc7b7d2c4fc14df9"
 metafile = true
 
 [[files]]
