@@ -1,14 +1,14 @@
 name = "Saro´s Road Signs"
-filename = "Saros-Road-Signs-Mod-1.20.1-4.5.jar"
+filename = "Saros-Road-Signs-Mod-1.20.1-1.3-[Fabric-Quilt].jar"
 side = "both"
 
+
 [download]
-url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/X8J5ufVI/Saros-Road-Signs-Mod-1.20.1-4.5.jar"
+url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/MD6ahJhg/Saros-Road-Signs-Mod-1.20.1-1.3-%5BFabric-Quilt%5D.jar"
 hash-format = "sha512"
-hash = "872a9f4bc37d014e9800e16d331181eeb84491da233629230ceff7159817f580c1e2b580c87004b5e045dcc59c34beea07f37e0c35a3666b253a54215f2effc6"
-mode = "url"
+hash = "92a0f5461b6b2aef41dfdb8ab877d41d9e3eb6badb71682663cb6d6055924a9128451ba6e7d96dd169232b504d6d4983e653a4d5216c28ee4c664ac08478ee10"
 
 [update]
 [update.modrinth]
 mod-id = "Ba3uA4qP"
-version = "X8J5ufVI"
+version = "MD6ahJhg"

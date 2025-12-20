@@ -1,14 +1,13 @@
 name = "Saro´s Road Blocks"
-filename = "Saros-Road-Blocks-Mod-1.20.1-4.4.1.jar"
+filename = "Saros-Road-Blocks-Mod-1.20.1-1.2-[Fabric-Quilt].jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NnMIY8We/versions/bYkUbL7Y/Saros-Road-Blocks-Mod-1.20.1-4.4.1.jar"
+url = "https://cdn.modrinth.com/data/NnMIY8We/versions/7nFQaAkN/Saros-Road-Blocks-Mod-1.20.1-1.2-%5BFabric-Quilt%5D.jar"
 hash-format = "sha512"
-hash = "af4188d0bb70ea1c6119d06e6c15085e19d41d57ff4fd562585f7ab8463915d2b035ce7fdc35c2ceb6597a4e32c4146cc8cb3df99003917aaab7ea1308f4accb"
-mode = "url"
+hash = "a7a77bd14555c08a87fcb6eb3147053a11e222c0064a98007dffc0792e420aa77acaf44689b2962e25123306213e6c62401c04b12864e3dc184a26b33c7f645c"
 
 [update]
 [update.modrinth]
 mod-id = "NnMIY8We"
-version = "bYkUbL7Y"
+version = "7nFQaAkN"
