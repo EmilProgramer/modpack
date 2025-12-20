@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/RMzXi4oD/versions/zQ7u7tnT/create_numismatics_crafts-1.0.0-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "2267eadb5a80d0358efef9c1fc21587fd23526346f3ae0ba306e772ec2e9a62f5f23ea5848f41af5565908c4f915c3616cfdeaea36ebc0d12e3db090df588307"
+hash-format = "sha256"
+hash = "f60ed246ad5bc8fec17d77d0a55bc2a4f545e4c85f5d4c013c48dec4294d71a4"
 mode = "url"
 
 [update]

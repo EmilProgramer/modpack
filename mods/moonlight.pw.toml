@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/1yJlkP4n/moonlight-1.20-2.16.16-fabric.jar"
-hash-format = "sha512"
-hash = "007d918889a84d9d3a40b503bce48fa73cb446bd08b29da73578426dbb2dee4552cc191fe772e4f40bcaf2a3165980a02e7660f0438a2742af06700eb4bb4069"
+hash-format = "sha256"
+hash = "f532fa90f95ff247c7f93c3348d80abf0848e6345fde20cb293bd85c65e1a301"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t0tfDFXH/versions/gTgaw3ac/wojanek-1.0.0.jar"
-hash-format = "sha512"
-hash = "a41939b6fec63cecc1c7831f35e362777456bea81dc3975ee97fe7cbeb87334717d0353aad7f4e0e47629d39c72748cd32abb370e8745c3bbd0a4ce31c86ee9f"
+hash-format = "sha256"
+hash = "2385acd765ef0a870c88929e9e893249a6a3678cbd84b3812e6e3a90b57da535"
 mode = "url"
 
 [update]

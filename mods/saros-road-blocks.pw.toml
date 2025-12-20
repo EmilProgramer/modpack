@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NnMIY8We/versions/7nFQaAkN/Saros-Road-Blocks-Mod-1.20.1-1.2-%5BFabric-Quilt%5D.jar"
-hash-format = "sha512"
-hash = "a7a77bd14555c08a87fcb6eb3147053a11e222c0064a98007dffc0792e420aa77acaf44689b2962e25123306213e6c62401c04b12864e3dc184a26b33c7f645c"
+hash-format = "sha256"
+hash = "eb0d58b5cb57ed33cb3e888f077ff12eaf135b988f4df64e4aa39be70c4f84d7"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/q4goJtip/versions/SWAv0A7a/create_security-0.1.2-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "f4182cb93b7ad1ab07fc552f2e065b2e40f681affa3c66e43fe76c0b675631860626ba77c2f9f12d28bc6d50bb91d890ee768274a1e3dbb4af6532e063b7bf66"
+hash-format = "sha256"
+hash = "ef244f4d228840f61cd8a3488c5fab7235500c51009bc547715b995cc788368d"
 mode = "url"
 
 [update]

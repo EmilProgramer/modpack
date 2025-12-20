@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bRa1UAVZ/versions/DHWqG6SF/webdisplays-2.0.2-1.20.1.jar"
-hash-format = "sha512"
-hash = "a7b1369d52b61647307b9217ddc5faa17b8938561ee2df00c9434cb703a0e18b3cc0acc14afc597195e97ed539d91dbc88f2f50b28661ab0799cfa9585d4b064"
+hash-format = "sha256"
+hash = "017626c9c08bc6fa620c33643bd6ce9a1368f741b3af36d62fc299d5e38535af"
 mode = "url"
 
 [update]

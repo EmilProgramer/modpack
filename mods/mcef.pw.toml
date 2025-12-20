@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TObQ0HxZ/versions/klnKzTHB/mcef-fabric-2.1.6-1.20.1.jar"
-hash-format = "sha512"
-hash = "02d6feef1aca8963634f7745861a789d4c5a82fee0e973855a8f8424d64b132e676a9b852f670c90a736d6d222e4aec5710b31b6e76c7ad5825fc93aafb7a3d6"
+hash-format = "sha256"
+hash = "7a99ca890dbc23ee4848c98a78524960069277ee4e181e63b7a95f6d6fbbbaf1"
 
 [update]
 [update.modrinth]

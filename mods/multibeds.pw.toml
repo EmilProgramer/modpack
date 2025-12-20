@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JyytxgF6/versions/IuMV3MEF/multibeds-fabric-1.20.1-1.3.jar"
-hash-format = "sha512"
-hash = "f3651d675617ecd74041abacd58d428b49c871acad4b3e9e7aafd74ef25a484fffa0068064d6731b5c3eb37bc5cb548dd42a5e1e4b3c1f61a8610990edaf6484"
+hash-format = "sha256"
+hash = "be870f5b4ec9f3b0036f2bafa6d1e02777d62be690d4f11da56f0336497d19e4"
 
 [update]
 [update.modrinth]
