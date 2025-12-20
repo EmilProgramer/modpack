@@ -1,14 +1,16 @@
-name = "SecurityCraft"
-filename = "[1.20.1] SecurityCraft v1.10.1.jar"
-side = "both"
+filename = '[1.20.1] SecurityCraft v1.10.1.jar'
+name = 'SecurityCraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/v8jzRtAt/versions/UDbRAGQU/%5B1.20.1%5D SecurityCraft v1.10.1.jar"
-hash-format = "sha256"
-hash = "ec601ba570c5351c353fc1ee0eb2f4823d1c026d265a96d3ec802070a50b6ebd"
-mode = "url"
+hash = '81776fca953ffdd919c33bbf3b72290c2e6a462600af8aed3ad1fd08c2a61d712deb160a04302faa66a098565029cb947aad0b1c3a1981dd84a24f58aa9f6d17'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v8jzRtAt/versions/UDbRAGQU/%5B1.20.1%5D SecurityCraft v1.10.1.jar'
 
-[update]
 [update.modrinth]
-mod-id = "v8jzRtAt"
-version = "UDbRAGQU"
+mod-id = 'v8jzRtAt'
+version = 'UDbRAGQU'

@@ -1,13 +1,16 @@
-name = "Resourceful Lib"
-filename = "resourcefullib-fabric-1.20.1-2.1.29.jar"
-side = "both"
+filename = 'resourcefullib-forge-1.20.1-2.1.29.jar'
+name = 'Resourceful Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar"
-hash-format = "sha256"
-hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+hash = '8dbe951d431545a7d18081a8b11a52a248e6d8ff9862ae6462b0f5a6f57ff523af12704c3adb071ae99a7c5c1dd895bd7875dea59f9c4956c1597a668b6e8820'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar'
 
-[update]
 [update.modrinth]
-mod-id = "G1hIVOrD"
-version = "UOdaYbhh"
+mod-id = 'G1hIVOrD'
+version = 'OhsHaCcW'

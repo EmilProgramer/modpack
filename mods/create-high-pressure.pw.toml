@@ -1,13 +1,16 @@
-name = "Create: High Pressure"
-filename = "create_high_pressure-1.1.0.jar"
-side = "both"
+filename = 'create_high_pressure-1.1.0.jar'
+name = 'Create: High Pressure'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/Mn8ziD0c/versions/hGGRPrHq/create_high_pressure-1.1.0.jar"
-hash-format = "sha256"
-hash = "5e0e2080c9653f10710feefc057f61718ca1eb467be49a02e19074a124071db2"
+hash = 'ba350d99f1d3cddcf01f96a9db21921fde74600b59867a2cde2663957f966cf997a053e66bd741fc3bccb2f2dcf51b94131947a06034f3d21c53e379bb123c3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Mn8ziD0c/versions/Say8KKfn/create_high_pressure-1.1.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "Mn8ziD0c"
-version = "hGGRPrHq"
+mod-id = 'Mn8ziD0c'
+version = 'Say8KKfn'

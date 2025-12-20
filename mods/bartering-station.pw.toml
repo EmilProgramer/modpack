@@ -1,13 +1,16 @@
-name = "Bartering Station"
-filename = "BarteringStation-v8.0.0-1.20.1-Fabric.jar"
-side = "both"
+filename = 'BarteringStation-v8.0.0-1.20.1-Forge.jar'
+name = 'Bartering Station'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/EOig9U0j/versions/tCw8RpfZ/BarteringStation-v8.0.0-1.20.1-Fabric.jar"
-hash-format = "sha256"
-hash = "55b6e257c9f7adca049fd9e948d221227051c72e6c3bb1f8387dfda6040e6599"
+hash = '999d29b7e454865e80432da594fb155c1d77c6b2ce9f4f3f1bf1673510b732b75d2a44bce044563ba020fcbdb92fff1c2c67047c4a5a7fc9c0836a32c18744fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EOig9U0j/versions/4op6LZEK/BarteringStation-v8.0.0-1.20.1-Forge.jar'
 
-[update]
 [update.modrinth]
-mod-id = "EOig9U0j"
-version = "tCw8RpfZ"
+mod-id = 'EOig9U0j'
+version = '4op6LZEK'

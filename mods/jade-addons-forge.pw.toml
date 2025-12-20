@@ -1,13 +1,16 @@
-name = "Jade Addons (Neo/Forge)"
-filename = "JadeAddons-1.20.1-Forge-5.5.0.jar"
-side = "both"
+filename = 'JadeAddons-1.20.1-Forge-5.5.0.jar'
+name = 'Jade Addons (Neo/Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/AvIT9ADi/JadeAddons-1.20.1-Forge-5.5.0.jar"
-hash-format = "sha256"
-hash = "3fa00b2ee33ee154ef155997fc7e12fb0e4d7f4f06d1bfd47dd6ee3c6a1549d4"
+hash = 'a11d4604453f7aa7cbeafcd2b399c7e39e66a5b38cccdbc7ad7dbce3f79f0a632568d28665ffb22a29676c78ad2089d9bf13793518fc453270a0bbbbbcfd91fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xuDOzCLy/versions/AvIT9ADi/JadeAddons-1.20.1-Forge-5.5.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "xuDOzCLy"
-version = "AvIT9ADi"
+mod-id = 'xuDOzCLy'
+version = 'AvIT9ADi'

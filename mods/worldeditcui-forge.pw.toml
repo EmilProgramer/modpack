@@ -1,14 +1,16 @@
-name = "WorldEdit CUI (Forge)"
-filename = "WorldEditCUI-1.20+01.jar"
-side = "client"
+filename = 'WorldEditCUI-1.20+01.jar'
+name = 'WorldEdit CUI (Forge)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/lOELapP1/versions/SRJCpmta/WorldEditCUI-1.20%2B01.jar"
-hash-format = "sha256"
-hash = "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09"
-mode = "url"
+hash = '72d5eb0bdb2fdb21b5a19a65208fc07f8e92c32976b614e5b293677e0801fdc42a01d10e82345f63fec5a89f21b016c077dd98ef94d7c56c7a83a9114cdf3630'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lOELapP1/versions/SRJCpmta/WorldEditCUI-1.20%2B01.jar'
 
-[update]
 [update.modrinth]
-mod-id = "lOELapP1"
-version = "SRJCpmta"
+mod-id = 'lOELapP1'
+version = 'SRJCpmta'

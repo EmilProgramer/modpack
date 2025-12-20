@@ -1,13 +1,16 @@
-name = "Station Decoration"
-filename = "MSD-fabric-1.20.1-4.0.2-1.4.2.jar"
-side = "both"
+filename = 'MSD-forge-1.20.1-4.0.2-1.4.2.jar'
+name = 'Station Decoration'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-url = "https://cdn.modrinth.com/data/AM3NyLOZ/versions/PM3Xc54H/MSD-fabric-1.20.1-4.0.2-1.4.2.jar"
-hash-format = "sha256"
-hash = "79131a8147efdfe2d60b528f96a3115c00549cbe65be6854538b5767c7d655a7"
+hash = 'e3887826d907c763fa4307dee04d9ad87377ce8edea71a60bcca16c8e53950c28cfd994b05e8eae429651331751b2c89dd90a2e1c01e223044c3a166e07ff1ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AM3NyLOZ/versions/Toh7oVVr/MSD-forge-1.20.1-4.0.2-1.4.2.jar'
 
-[update]
 [update.modrinth]
-mod-id = "AM3NyLOZ"
-version = "PM3Xc54H"
+mod-id = 'AM3NyLOZ'
+version = 'Toh7oVVr'
