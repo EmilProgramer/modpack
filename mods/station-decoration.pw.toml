@@ -1,16 +1,14 @@
-filename = 'MSD-forge-1.20.1-4.0.2-1.4.2.jar'
-name = 'Station Decoration'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Station Decoration"
+filename = "MSD-forge-1.20.1-4.0.2-1.4.2.jar"
+side = "both"
 
 [download]
-hash = 'e3887826d907c763fa4307dee04d9ad87377ce8edea71a60bcca16c8e53950c28cfd994b05e8eae429651331751b2c89dd90a2e1c01e223044c3a166e07ff1ce'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/AM3NyLOZ/versions/Toh7oVVr/MSD-forge-1.20.1-4.0.2-1.4.2.jar'
+url = "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Toh7oVVr/MSD-forge-1.20.1-4.0.2-1.4.2.jar"
+hash-format = "sha256"
+hash = "490c9372420885772caf604b0d8d4fbdf039a59a560f846e9ab1a081b964db50"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'AM3NyLOZ'
-version = 'Toh7oVVr'
+mod-id = "AM3NyLOZ"
+version = "Toh7oVVr"

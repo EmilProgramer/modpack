@@ -1,16 +1,13 @@
-filename = 'refurbished_furniture-forge-1.20.1-1.0.20.jar'
 name = "MrCrayfish's Furniture Mod: Refurbished"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "refurbished_furniture-forge-1.20.1-1.0.20.jar"
+side = "both"
 
 [download]
-hash = 'ffb68135b88bdbb25224378c76daf922c3f4c322'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7110922
 project-id = 897116
