@@ -96,6 +96,11 @@ hash = "f7fd9ff7b8c368ab014f69528842598bb558d5e29b8c647a9d7594f1fa805824"
 metafile = true
 
 [[files]]
+file = "mods/create-framed.pw.toml"
+hash = "da6ac85defc85348a637ffc6492a83c2d5f30368804af8f544ecd719e20db7e2"
+metafile = true
+
+[[files]]
 file = "mods/create-high-pressure.pw.toml"
 hash = "59ac132dc9a9bba574e3ba318d064d953bad9682efe08d8aae28a2f5976640ab"
 metafile = true
