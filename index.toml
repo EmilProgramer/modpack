@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
-hash = "b1a52d7318f6a4db89113313ce29e7b48d088bfab71a7e8eeabab5e866b12b2b"
+hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "c048d1d22b80c5ded2d75cd75988dd8dfb4ee2ef92483d3b8f13e86c333a83b2"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d78518ca3133a2fbb357d7371521d73b71ea5e82b63c45babc7b7d2c4fc14df9"
+hash = "8dd17f19e28b517c1ce56a2024ece8a37ca9bc866079d23969cc3811577861a4"
 metafile = true
 
 [[files]]
@@ -333,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8068be47e1f465b38532961d9e53ee1cf11a32a5331e6ba0c41ac84149ccf2c4"
+metafile = true
+
+[[files]]
+file = "mods/realms-button-remover.pw.toml"
+hash = "bbfe4c579d6adf0d6c4f87c063bcfa186c217b131953e528c4382bf62c60fda4"
 metafile = true
 
 [[files]]
