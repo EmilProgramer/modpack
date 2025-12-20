@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "91e517e02a38e423af0bf2f49e22f5069e2775317c8d20ef62d7aa557d15df62"
 metafile = true
@@ -256,11 +246,6 @@ hash = "f71c41434fd45053c6878069875611f3bed05c69512efe55546d75df548df2a0"
 metafile = true
 
 [[files]]
-file = "mods/mcef.pw.toml"
-hash = "1e7d920e4d49c5c6231a55c108e6bdf3f17fa645c8e3207fb563ae58ae83a0a9"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "746b646935eb19c80ff30c9348ed159ac656e5963cc9209929e85cc75db95b1d"
 metafile = true
@@ -277,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8dd17f19e28b517c1ce56a2024ece8a37ca9bc866079d23969cc3811577861a4"
+hash = "b6b603c0ba0f1d441e57b62d11f61d766a0efcf3b082a9a03ccf381b5c9f03a3"
 metafile = true
 
 [[files]]
@@ -337,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/realms-button-remover.pw.toml"
-hash = "bbfe4c579d6adf0d6c4f87c063bcfa186c217b131953e528c4382bf62c60fda4"
+hash = "304eaa8f1e229e2b67132d1a182da782a7611ff638dc556fd7a685ecd2c78369"
 metafile = true
 
 [[files]]
