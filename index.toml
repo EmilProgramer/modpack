@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "d1218830d3170e3d4753752713dc39d3ff38b802556c90e669669390bc7ded39"
+hash = "36eb9cdb876058f5db6f418668f0160ff6e8a8a253abc18bed34d52191925081"
 metafile = true
 
 [[files]]
@@ -223,6 +223,16 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
