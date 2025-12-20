@@ -36,7 +36,7 @@ jobs:
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest\
       - name: Rehash
-      - run: packwiz rehash sha512
+        run: packwiz rehash sha512
       - name: Update mods
         run: packwiz update
       - name: Setup Pages
