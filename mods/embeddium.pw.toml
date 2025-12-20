@@ -2,7 +2,6 @@ name = "Embeddium"
 filename = "embeddium-fabric-0.3.25+mc1.20.1.jar"
 side = "both"
 
-
 [download]
 url = "https://cdn.modrinth.com/data/sk9rgfiA/versions/kJkE9dfS/embeddium-fabric-0.3.25%2Bmc1.20.1.jar"
 hash-format = "sha512"

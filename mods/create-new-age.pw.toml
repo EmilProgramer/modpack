@@ -2,7 +2,6 @@ name = "Create: New Age"
 filename = "create-new-age-1.1.7c+fabric-mc1.20.1.jar"
 side = "both"
 
-
 [download]
 url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/jE95BD7t/create-new-age-1.1.7c%2Bfabric-mc1.20.1.jar"
 hash-format = "sha512"
