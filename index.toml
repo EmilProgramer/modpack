@@ -411,11 +411,6 @@ hash = "b48ebf6ae01dc386ec04f2830eb5382693d51f9679fff185c31a27d1b4fda838"
 metafile = true
 
 [[files]]
-file = "mods/webdisplays.pw.toml"
-hash = "0c050be514ffa1f89cc0242b3b5ede5422059be7006dc1f9e0ddbd6f3c7aca84"
-metafile = true
-
-[[files]]
 file = "mods/wojanek!.pw.toml"
 hash = "b14648aa49ecc91cb8024924ad79211b91233a3f50cafdbd5681c6716f4259e0"
 metafile = true
