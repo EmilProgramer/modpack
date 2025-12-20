@@ -1,4 +1,4 @@
 /Makefile
 /index.html
 .github/
-/mods/fakeloader.json
+mods/fakeloader.json
