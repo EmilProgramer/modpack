@@ -41,35 +41,35 @@ jobs:
           name: rehash
           path: .
 
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          fetch-depth: 0
-      - name: Install go
-        uses: actions/setup-go@v5.6.0
-      - name: Install packwiz
-        run: go install github.com/packwiz/packwiz@latest
-      - name: Update mods
-        run: packwiz update --all -y
-      - name: Commit and push changes (if any)
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          if git diff --cached --quiet && git diff --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "packwiz: update"
-            git push origin HEAD:${{ github.ref_name }}
-          fi
+  # update:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout
+  #       uses: actions/checkout@v4
+  #       with:
+  #         persist-credentials: true
+  #         fetch-depth: 0
+  #     - name: Install go
+  #       uses: actions/setup-go@v5.6.0
+  #     - name: Install packwiz
+  #       run: go install github.com/packwiz/packwiz@latest
+  #     - name: Update mods
+  #       run: packwiz update --all -y
+  #     - name: Commit and push changes (if any)
+  #       run: |
+  #         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+  #         git config --local user.name "github-actions[bot]"
+  #         git add -A
+  #         if git diff --cached --quiet && git diff --quiet; then
+  #           echo "No changes to commit"
+  #         else
+  #           git commit -m "packwiz: update"
+  #           git push origin HEAD:${{ github.ref_name }}
+  #         fi
 
   deploy-pages:
     needs:
-      - update
+  #    - update
       - rehash
     environment:
       name: github-pages
