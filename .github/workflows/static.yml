@@ -38,7 +38,7 @@ jobs:
       - name: Rehash
         run: packwiz rehash sha512
       - name: Update mods
-        run: packwiz update
+        run: packwiz update --all -y
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
