@@ -49,11 +49,6 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
-      - name: Download rehash artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: rehash
-          path: .
       - name: Install go
         uses: actions/setup-go@v5.6.0
       - name: Install packwiz
