@@ -22,24 +22,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  rehash:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Install go
-        uses: actions/setup-go@v5.6.0
-      - name: Install packwiz
-        run: go install github.com/packwiz/packwiz@latest
-      - name: Rehash
-        run: packwiz rehash sha512
-      - name: Upload rehash artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: rehash
-          path: .
+  # rehash:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #       with:
+  #         persist-credentials: false
+  #         fetch-depth: 0
+  #     - name: Install go
+  #       uses: actions/setup-go@v5.6.0
+  #     - name: Install packwiz
+  #       run: go install github.com/packwiz/packwiz@latest
+  #     - name: Rehash
+  #       run: packwiz rehash sha512
+  #     - name: Upload rehash artifact
+  #       uses: actions/upload-artifact@v4
+  #       with:
+  #         name: rehash
+  #         path: .
 
   # update:
   #   runs-on: ubuntu-latest
@@ -68,9 +68,9 @@ jobs:
   #         fi
 
   deploy-pages:
-    needs:
+  #  needs:
   #    - update
-      - rehash
+  #    - rehash
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
