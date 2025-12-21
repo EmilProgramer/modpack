@@ -1,0 +1,13 @@
+name = "Omnixerio Devices"
+filename = "devices-forge-0.8.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c2fdeeff16082aa4cfbc1c73ee08edfa1c54c6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5993068
+project-id = 659048

@@ -21,11 +21,6 @@ hash = "de069b5f13a25ffc02589f00aaf2cc439ad7df02cdae999916e73bf077998f43"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
-metafile = true
-
-[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "d3518d8d4e53cd1d0f1942aacbdf43a0a0daa84bea3b4d7c9533bbbab08c555f"
 metafile = true
@@ -146,6 +141,11 @@ hash = "ac3fc93c73a20f8bfa8adb077ba603d549e5e1a62c32916abc48b433203ce47a"
 metafile = true
 
 [[files]]
+file = "mods/devices-mod.pw.toml"
+hash = "2f8cb70158bbdc769232090093a494afed4cefb10d62c050014fd8425ef219f0"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0b04ed099c2e3fef0a838498900edb04f93156a6425018fbdd411bd9d9996a6b"
 metafile = true
@@ -178,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "2c5008aaabd786fd5819e3bebff00a8ca455b2ea00d549a79004e5939e92ebed"
+metafile = true
+
+[[files]]
+file = "mods/eyemod-phone.pw.toml"
+hash = "39682b3a284fb0f643a7850256c9ab68d7d5123b3730092a810ec4fc2f9118ea"
 metafile = true
 
 [[files]]

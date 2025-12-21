@@ -1,0 +1,13 @@
+name = "(Forge, 1.20.1) EyeMod - A Working Phone in Minecraft"
+filename = "eyemod-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d65d65abd8b0148a646dfaee5f031edb1038b8c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5355533
+project-id = 580381
