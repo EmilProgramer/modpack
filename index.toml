@@ -21,6 +21,11 @@ hash = "de069b5f13a25ffc02589f00aaf2cc439ad7df02cdae999916e73bf077998f43"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
+metafile = true
+
+[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "d3518d8d4e53cd1d0f1942aacbdf43a0a0daa84bea3b4d7c9533bbbab08c555f"
 metafile = true
