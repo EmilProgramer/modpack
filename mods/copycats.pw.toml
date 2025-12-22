@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UT2M39wf/versions/OjWz9bJQ/copycats-3.0.4%2Bmc.1.20.1-forge.jar"
-hash-format = "sha512"
-hash = "0e66db87bb66d0f4e95d09ee095f6f14686e0b0b905afb8db9295621c6d35c97d762e37688d4dbbf0226710d88c7639be84005133e1586a1e0593344ff855356"
+hash-format = "sha256"
+hash = "7d684e6a829fcacf5ab94d20044cad0e7eb5376cbe02d77954fc41a2d264511f"
 mode = "url"
 
 [update]

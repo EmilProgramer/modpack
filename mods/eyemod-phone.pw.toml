@@ -3,8 +3,8 @@ filename = "eyemod-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8f8e95030cf1d164e0f0f970028f1e1ac1b32b0af027e8d7113faf18ad44a94607fa6aff26d5473e3ea6df2413769fed7594771dbf22cd97c655f915f61c1451"
+hash-format = "sha256"
+hash = "510ccd4d070a50d42695cc661f415c25699dd9955a85d4b429861cd2c8687bb3"
 mode = "metadata:curseforge"
 
 [update]

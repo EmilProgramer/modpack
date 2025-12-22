@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yasXoQpR/versions/ZIoZA2FC/%5BForge%5Dbackported_wolves_forge-1.0.3-1.20.1.jar"
-hash-format = "sha512"
-hash = "c616897744ab1a8ccc2a6904336d6709c75f6e05033026acaed8f92bcb8e0a7b229212b83f4e617ce68ebc67b3c3e2bddf78d93f548acb491efe12cb29f96328"
+hash-format = "sha256"
+hash = "ff6f0a77a93a4a896fba1a7760f9fc4a87e622bec77579dab1b4404d2f7c9b48"
 mode = "url"
 
 [update]
