@@ -3,8 +3,8 @@ filename = "devices-forge-0.8.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c2fdeeff16082aa4cfbc1c73ee08edfa1c54c6b"
+hash-format = "sha256"
+hash = "eefac00205dbfbcaa8fad46f0c8798027c74a1664f41a2538287dd12e99eb080"
 mode = "metadata:curseforge"
 
 [update]
