@@ -1,11 +1,6 @@
 hash-format = "sha512"
 
 [[files]]
-file = "Makefile"
-hash = "191e22421155e0f150ff87ca6606ba12e240207a2016d4f75740fbcdfd542528"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "91e517e02a38e423af0bf2f49e22f5069e2775317c8d20ef62d7aa557d15df62"
 hash-format = "sha256"
@@ -544,8 +539,3 @@ file = "mods/zoomify.pw.toml"
 hash = "a6bdbe7482e60c21528076a4146a81e3342b1611bad669cbbbc4efb32740b249"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "‎.packwizignore"
-hash = "342f5e73d74ed832038af0b235f03f697e925b8c6b505120571e9e7f523e5d65"
-hash-format = "sha256"
