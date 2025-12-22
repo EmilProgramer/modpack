@@ -85,12 +85,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/create-cafe.pw.toml"
-hash = "289d181e64e3fec05c1efed1d16734bf658f64a5aeae86491e27ae010ca651cc"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "75d165cf0befe2d797f46d00c56ab2644d658468316b526328c31ae3d86feabf"
 hash-format = "sha256"
