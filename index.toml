@@ -544,3 +544,8 @@ file = "mods/zoomify.pw.toml"
 hash = "a6bdbe7482e60c21528076a4146a81e3342b1611bad669cbbbc4efb32740b249"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "‎.packwizignore"
+hash = "342f5e73d74ed832038af0b235f03f697e925b8c6b505120571e9e7f523e5d65"
+hash-format = "sha256"
