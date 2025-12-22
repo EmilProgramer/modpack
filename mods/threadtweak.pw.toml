@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/gBP1GqtK/threadtweak-fabric-1.20.2-0.1.1.jar"
-hash-format = "sha256"
-hash = "13954c14a9491b07eab6d2b278faed5629d42ac52cc959711959f32270e6edff"
+hash-format = "sha512"
+hash = "b5a9fc2775bc8c020cb88b898dcdf473bf77f03ef41be1661a117872b16582a7e30b4f4a94d4c97855484a173e5e41951d47fcc17aef2429828b35308453835c"
 mode = "url"
 
 [update]

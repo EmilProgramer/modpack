@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/VFxstIR8/JCM-forge-2.1.0-beta.3%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "e48ba82049c9648c011485f6fd0973a5422562781b8c183d5bab6bd73964ffbb"
+hash-format = "sha512"
+hash = "940cea562daa313476cfce289c878984fb24b3f88ed9359e283eb6a8c584d0334779fb7071a7d6a9f24f0fe599b74e2a44b66660bcdff77b697eee9bc2ae9b1e"
 mode = "url"
 
 [update]
