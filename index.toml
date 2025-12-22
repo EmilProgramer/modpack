@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "aa47d4ee446904ab11d7a7126c0b74a1d069062e532d00d7a8cfa6d9c36d6641"
+hash = "289d181e64e3fec05c1efed1d16734bf658f64a5aeae86491e27ae010ca651cc"
 hash-format = "sha256"
 metafile = true
 
