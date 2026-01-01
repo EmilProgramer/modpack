@@ -25,6 +25,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/autoreconnect.pw.toml"
+hash = "c6f16688cf57d7bf77e10d746cb4ee9d07b4d5b6c68a08ff74680f5685e30eac"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "d3518d8d4e53cd1d0f1942aacbdf43a0a0daa84bea3b4d7c9533bbbab08c555f"
 hash-format = "sha256"
@@ -177,6 +183,12 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "9579c0d48cb39809310911564165215e8a467df9b2b95d819c6a8d493fbc9fef"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 hash-format = "sha256"
 metafile = true
 
