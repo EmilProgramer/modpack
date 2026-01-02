@@ -187,12 +187,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/emuno.pw.toml"
 hash = "fc78c27c31e86bb6ea3d061bfdc0a5f9750d557f37233833848dc0a58b6888d8"
 hash-format = "sha256"
