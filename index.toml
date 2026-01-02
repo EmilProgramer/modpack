@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "45c6c453d4e0897dd87eb6cd457829617c1a47291ce0cb15fb8c05d8e2bff3a2"
+hash = "3f29e36d9b68b99e1e88e8782fa5e7f65d34716a39cb8bab8130e1b5b7e47fdd"
 hash-format = "sha256"
 metafile = true
 
@@ -200,19 +200,19 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "63534c32b586edf4bd89aae9568ecc948dbd91a6c3b987ebef88a44bfa0a7a25"
+hash = "2a5ec036147e0c0ac36f551c0f5e357afff8de395803b0dd5b6a04343e7ba1af"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1dc48fea56862338f9dbf8b4bda21aacb3f58b78004987aad0c6267753758661"
+hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2c5008aaabd786fd5819e3bebff00a8ca455b2ea00d549a79004e5939e92ebed"
+hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
 hash-format = "sha256"
 metafile = true
 
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5401dab1dcb565b03f753f6ce3340ae71fdae092f6a412d77ff174e872ca8970"
+hash = "e49c0bc4bd5d3b12d1b26d2fb462753f59b068bdcdeff549496b8ad0fb9f225f"
 hash-format = "sha256"
 metafile = true
 
@@ -296,7 +296,13 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "0144d9ee7a1eae4a4ac4a4d7285301f33092a896c812565bbf175237bff83230"
+hash = "79c990b977cff2edcd25258c91a04feae5ce3cbc619f2b9e5af0861f83024791"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
 hash-format = "sha256"
 metafile = true
 
@@ -332,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6b603c0ba0f1d441e57b62d11f61d766a0efcf3b082a9a03ccf381b5c9f03a3"
+hash = "c3fe09de76654cbd7012ab476423de1eb1e3ae80cc2a3aec7ff547560e1b56c9"
 hash-format = "sha256"
 metafile = true
 
@@ -483,12 +489,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "fb26aa161b7ac4028b622a9959e6d83539d2de6e2d530307be63b45907148b4b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "6161309e69a86b6258e9d2c7cb541e3f083cbcc729be14951343f34a186048c5"
 hash-format = "sha256"
 metafile = true
 
