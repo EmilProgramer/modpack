@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "3f29e36d9b68b99e1e88e8782fa5e7f65d34716a39cb8bab8130e1b5b7e47fdd"
+hash = "76ca3b317ee6c9dbb617958f676646957b66a0944a35bfc50048435b344469dc"
 hash-format = "sha256"
 metafile = true
 
@@ -200,19 +200,19 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2a5ec036147e0c0ac36f551c0f5e357afff8de395803b0dd5b6a04343e7ba1af"
+hash = "9151984e5e12edad40bfadcdcc75bb932c74a7a6d9a7116f17cdb293f5dae245"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
+hash = "fa4efa6ad10f58813530a319b3b227b8dabfcd312c2c9250ccc4ce5de0bd02dc"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
+hash = "6a2b9c8cd9e719c049713bab363b6b21dcc00504b596653545b06a663319700d"
 hash-format = "sha256"
 metafile = true
 
@@ -271,6 +271,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "eb9782953c41732e9f707c7386c70f6c0bfb9191cef4707a1ad157597ef08620"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "c92426c22e55acc223f14ab21d2819ce3bfdfefb256d9c4a335b48603ca59a65"
 hash-format = "sha256"
@@ -290,13 +296,13 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "79c990b977cff2edcd25258c91a04feae5ce3cbc619f2b9e5af0861f83024791"
+hash = "3cbaaaa3db6ec109a4a36a12f1ad2f34bc8f630b4764671794ba0c687326950c"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
+hash = "1c3dce9ce6100ae67aa74b458e1ca7f0303af01f2c79a8e7b58cb219b9e78b09"
 hash-format = "sha256"
 metafile = true
 
@@ -332,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c3fe09de76654cbd7012ab476423de1eb1e3ae80cc2a3aec7ff547560e1b56c9"
+hash = "b6ee3ec9dbddfc3601ffe164c72e1b55d900b467283c709ce1a131112771ab6a"
 hash-format = "sha256"
 metafile = true
 
