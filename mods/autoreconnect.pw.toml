@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/A9rziLV4/versions/pLQQC55S/autoreconnect-2.2.1.jar"
-hash-format = "sha512"
-hash = "f49ecc049f734ec530a6574e8bf4d41539daf2aa2f3431fcb45f5b937740f0b8c08caa0fb6b4aa66801fe7431a93877a2945b95e59c917cccb64dcf131c6804d"
+hash-format = "sha256"
+hash = "07c18575d014ecd0c2e5e43b82c13d73e7181ae23b845490d81956e43278c437"
 
 [update]
 [update.modrinth]
