@@ -3,8 +3,8 @@ filename = "refurbished_furniture-forge-1.20.1-1.0.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+hash-format = "sha512"
+hash = "40fd537c4d6a85140d1132af6f36bb3b857ee34e41d6688a6ba3809ab3a63a7e4aece9e59d7fc3603b0a3130deb9af0593bca3683f888dd64eb4fa3ba492c8ad"
 mode = "metadata:curseforge"
 
 [update]

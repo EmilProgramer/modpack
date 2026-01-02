@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/mBY9X7fu/create-new-age-1.1.7e%2Bforge-mc1.20.1.jar"
-hash-format = "sha256"
-hash = "8eaf7753bab3b515d39ac9082be98e4b83e01b256405f925943ebe2b892c3994"
+hash-format = "sha512"
+hash = "33559235f97c56825ed6cf56f20a87ecc7fe694777fd215dbd0cc24987faae19a27c8d200e8df10e43152d252b9de98da064186b052506235b32339b9fbd4e0f"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JyytxgF6/versions/WJixhZzM/multibeds-forge-1.20.1-1.3.jar"
-hash-format = "sha256"
-hash = "0cf6d4011651efb0181ff21f5f870c3d50b9a09bc9239704bd55b0babb89b549"
+hash-format = "sha512"
+hash = "49a93b00a11b54663fa7d6a9df9fcdce9ccad06a9915647896e1240876183cc74f3dc079646569cbfb624026977c4d3673da4dea038dbb6f1a1c89c9d0ec33ad"
 mode = "url"
 
 [update]
