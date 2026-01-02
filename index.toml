@@ -271,12 +271,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "5401dab1dcb565b03f753f6ce3340ae71fdae092f6a412d77ff174e872ca8970"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "c92426c22e55acc223f14ab21d2819ce3bfdfefb256d9c4a335b48603ca59a65"
 hash-format = "sha256"
