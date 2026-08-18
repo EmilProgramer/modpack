@@ -385,12 +385,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/power-grid.pw.toml"
-hash = "86e7c693b88353fabe9acf70bfc1e7f123eb376919e7d043401e2dc46978fcb8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "ebd06dd6f14875cc9b6ed1abd17f805021e1ab64917154718703f096d5559b3b"
 hash-format = "sha256"
